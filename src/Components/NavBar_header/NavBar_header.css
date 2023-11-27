@@ -1,0 +1,33 @@
+.wallet_button_header{
+    border: none;
+    outline: none;
+    background: transparent !important;
+    padding: 5px 10px !important;
+    margin-top: 10px;
+    border: 1px solid grey !important;
+    border-radius: 8px !important;
+    font-size: 18px !important;
+    font-weight: bold;
+    color: #fff !important;
+   
+}
+
+.navbarnav{
+    background-color: transparent !important;
+    position:absolute;
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.55);
+    border-color: rgba(255,255,255,.1);
+    background: rgb(36, 35, 35) !important;
+}
+
+.logo_nav{
+    width: 70px !important;
+ 
+}
+.navstyle{
+    display: flex;
+    justify-content: end;
+}
